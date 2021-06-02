@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280827cbbb3204f4e8d124025c4658a6, type: 3}
+  m_Name: PlayerData_Lvl_1
+  m_EditorClassIdentifier: 
+  levelNo: 1
+  playerTotalHealth: 3
+  dammageValue: 1
+  moveSensitivity: 10
+  bulletData: {fileID: 11400000, guid: e0af072d690b1cf41948a4e12780b41d, type: 2}
